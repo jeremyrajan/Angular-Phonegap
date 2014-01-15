@@ -17,6 +17,7 @@ AYP provides a basic angular seed app in AngularJS wrapped around Phonegap, sole
 Make sure you have following installed
 <ul>
 <li><a href="http://nodejs.org">NODE & NPM</a></li>
+<li><a href="http://phonegap.com">Phonegap</a></li>
 <li><a href="http://bower.io">Bower</a></li>
 <li><a href="http://yeoman.io">Yeoman</a></li>
 <li><a href="http://www.figlet.org">Figlet (optional)</li> Tip: If you have installed Brew, use "brew install figlet"
