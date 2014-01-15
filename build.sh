@@ -1,11 +1,20 @@
 #!/bin/sh
 
 #print the welcome message
-figlet  Welcome People
+figlet  Building AYP
 
 echo "Started to build ..."
 grunt build
+if [ ! -d "dist" ]; then
+	echo "------------------------------------------------------------------------------"
+	echo "FATAL ERROR"
+	echo "------------------------------------------------------------------------------"
+	echo "Something went wrong during build, please check for GRUNT build errors above!"
+	echo "============================================================================="
+	exit
+fi
 echo "Build complete, copying files..."
 cp -rv dist/ www/
 echo "Copy complete, cleaning up..."
-
+rm -rf dist/
+echo "Build Complete, ready to be deployed!"
