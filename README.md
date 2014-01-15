@@ -1,1 +1,1 @@
-<h1>Angular + Phonegap Framework </h1>
+<h1>Angular + Phonegap Framework with Yeoman </h1>
