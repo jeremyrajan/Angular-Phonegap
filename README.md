@@ -42,5 +42,5 @@ That's it! You are ready to deploy...
 
 <hr/>
 
-Please let me know if any clarifications, @ jeremyrajan.gmail.com 
+Please let me know if any clarifications, at jeremyrajan[at]gmail.com 
 Contributions and suggestions are always welcome...
