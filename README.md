@@ -36,7 +36,7 @@ For building the app to "www" with "phonegap". Run,
 
 	sh build.sh
 
-=> This will build the app to 'www' directory with magnifications and optimisations necessary.
+=> This will build the app to 'www' directory with minifications and optimisations necessary.
 
 That's it! You are ready to deploy...
 
