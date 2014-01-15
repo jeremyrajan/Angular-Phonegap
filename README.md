@@ -25,6 +25,8 @@ Make sure you have following installed
 <h3>How?</h3>
 
 Using AYP is dead simple! Clone the repo to the folder you about to use for development. Run, 
+	
+	git clone https://github.com/jeremyrajan/Angular-Phonegap.git .
 
 	sh init.sh
 
