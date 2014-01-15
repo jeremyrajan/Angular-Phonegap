@@ -26,7 +26,7 @@ Make sure you have following installed
 
 Using AYP is dead simple! Clone the repo to the folder you about to use for development. Run, 
 
-	<pre>sh init.sh</pre>
+	sh init.sh
 
 => This will install phonegap, angular seed app using Yeoman
 
@@ -34,7 +34,7 @@ Using AYP is dead simple! Clone the repo to the folder you about to use for deve
 
 For building the app to "www" with "phonegap". Run,
 
-	<pre>sh build.sh</pre>
+	sh build.sh
 
 => This will build the app to 'www' directory with magnifications and optimisations necessary.
 
