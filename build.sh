@@ -16,5 +16,5 @@ fi
 echo "Build complete, copying files..."
 cp -rv dist/ www/
 echo "Copy complete, cleaning up..."
-rm -rf dist/
+rm -rf dist/ www/js/ www/css www/404.html www/robots.txt
 echo "Build Complete, ready to be deployed!"
