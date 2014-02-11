@@ -20,6 +20,7 @@ Make sure you have following installed
 <li><a href="http://phonegap.com">Phonegap</a></li>
 <li><a href="http://bower.io">Bower</a></li>
 <li><a href="http://yeoman.io">Yeoman</a></li>
+<li>Install Yeoman angular generator, using <pre>npm install -g generator-angular</pre></li>
 <li><a href="http://www.figlet.org">Figlet (optional)</li> Tip: If you have installed Brew, use "brew install figlet"
 </ul>
 
