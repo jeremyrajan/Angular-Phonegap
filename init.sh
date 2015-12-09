@@ -10,8 +10,8 @@ echo "                                                                          
 
 echo "Installing dependencies..."
 
-sudo npm install -g phonegap
-sudo npm install -g bower 
+npm install -g phonegap
+npm install -g bower 
 npm install -g yo                                                                             
 
 echo "Enter name of the project: \c"
