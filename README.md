@@ -1,4 +1,4 @@
-<h1>Angular + Phonegap Framework with Yeoman (A<=>Y<=>P) </h1>
+<h1>Angular + Phonegap Framework with Yeoman (AYP) </h1>
 
 AYP is designed to create and build Mobile Apps using AngularJS with the help of Yeoman.
 
@@ -15,12 +15,17 @@ to develop and build ANGULAR+PHONEGAP using YEOMAN without using generators.
 <h3>Requirements</h3>
 
 Windows
-```
-https://nodejs.org/en/download/
-```
+
+Download from here https://nodejs.org/en/download/
 
 Mac
 
+1) Install Brew
+ ```
+ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+ ```
+
+2) Install node
 ```
 brew install node
 ```
@@ -34,7 +39,7 @@ Using AYP is dead simple! Clone the repo to the folder you about to use for deve
 
 	sh init.sh
 
-=> This will create phonegap with angular seed app using Yeoman
+=> This will create phonegap app with angular seed app using Yeoman
 
 <b>You can delete init.sh, after you have initialised the app (if needed).</b>
 
