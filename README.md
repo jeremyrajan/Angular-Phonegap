@@ -13,7 +13,7 @@ a one which worked well for me (other than that they are really good :) ). So, I
 to develop and build ANGULAR+PHONEGAP using YEOMAN without using generators. 
 
 <h3>Requirements</h3>
-<pre>
+
 Windows
 ```
 https://nodejs.org/en/download/
@@ -24,7 +24,7 @@ Mac
 ```
 brew install node
 ```
-</pre>
+
 
 <h3>How?</h3>
 
