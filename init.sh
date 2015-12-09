@@ -1,12 +1,18 @@
 #!/bin/sh
 
-#initiate Brew and install it if necessary -- only checking on mac
-#ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
-#install figlet if necessary, just for fun!
-#brew install figlet
 
-#print the welcome message
-figlet  Welcome to APY
+echo " __        __   _                             _              _ __   ______  ";
+echo " \ \      / /__| | ___ ___  _ __ ___   ___   | |_ ___       / \\ \ / /  _ \ ";
+echo "  \ \ /\ / / _ \ |/ __/ _ \| '_ \` _ \ / _ \  | __/ _ \     / _ \\ V /| |_) |";
+echo "   \ V  V /  __/ | (_| (_) | | | | | |  __/  | || (_) |   / ___ \| | |  __/ ";
+echo "    \_/\_/ \___|_|\___\___/|_| |_| |_|\___|   \__\___/   /_/   \_\_| |_|    ";
+echo "                                                                            ";                                                                  
+
+echo "Installing dependencies..."
+
+sudo npm install -g phonegap
+sudo npm install -g bower 
+npm install -g yo                                                                             
 
 echo "Enter name of the project: \c"
 read projectname

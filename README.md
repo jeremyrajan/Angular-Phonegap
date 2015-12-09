@@ -13,22 +13,18 @@ a one which worked well for me (other than that they are really good :) ). So, I
 to develop and build ANGULAR+PHONEGAP using YEOMAN without using generators. 
 
 <h3>Requirements</h3>
+<pre>
+Windows
+```
+https://nodejs.org/en/download/
+```
 
-Make sure you have following installed
-<ul>
-<li><a href="http://nodejs.org">NODE & NPM</a></li>
-<li><a href="http://phonegap.com">Phonegap</a>
-	<pre>sudo npm install -g phonegap</pre>
-</li>
-<li><a href="http://bower.io">Bower</a>
-	<pre>npm install -g bower</pre>
-</li>
-<li><a href="http://yeoman.io">Yeoman</a>
-	<pre>npm install -g yo</pre>
-</li>
-<li>Install Yeoman angular generator, using <pre>npm install -g generator-angular</pre></li>
-<li><a href="http://www.figlet.org">Figlet (optional)</li> Tip: If you have installed Brew, use "brew install figlet"
-</ul>
+Mac
+
+```
+brew install node
+```
+</pre>
 
 <h3>How?</h3>
 
@@ -54,4 +50,4 @@ That's it! You are ready to deploy...
 
 Please let me know if any clarifications, at jeremyrajan[at]gmail.com 
 <br/>
-Contributions and suggestions are always welcome...
+Contributions and suggestions are always welcome.
